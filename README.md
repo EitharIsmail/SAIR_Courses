@@ -243,7 +243,7 @@ Production-grade<br/>ML workflows
 
 </div>
 
-### 📊 **Learning Timeline & Commitment**
+### 📊 **Learning Timeline & Commitment(Just an estimate/this is self-pace learning)**
 
 <div>
 
