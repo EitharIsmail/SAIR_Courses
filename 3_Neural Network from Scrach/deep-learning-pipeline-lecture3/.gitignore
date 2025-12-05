@@ -28,6 +28,7 @@ data/
 models/
 results/
 logs/
+dl_pipeline_lecture3/
 
 # IDE
 .vscode/
