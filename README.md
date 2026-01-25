@@ -1,315 +1,131 @@
-# 🇸🇩 SAIR – Sudanese Artificial Intelligence Research
+# 🎓 SAIR Jr. Certification Track
 
 <div align="center">
 
 ![SAIR Banner](SAIR.jpg)
 
-### **Building Sudan's AI Future, One Learner at a Time**
+### **Your Foundation in AI/ML Engineering**
+*Part of the Sudanese Artificial Intelligence Research (SAIR) Initiative*
 
 <table>
 <tr>
 <td align="center">
 <a href="https://t.me/+jPPlO6ZFDbtlYzU0">
-<img src="https://img.shields.io/badge/Join_SAIR_Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Community"/>
+<img src="https://img.shields.io/badge/Join_Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/silvaxxx1/SAIR">
-<img src="https://img.shields.io/badge/GitHub_Stars-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Stars"/>
-</a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License: MIT"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Status-🚀_Active_Courses-brightgreen?style=for-the-badge" alt="Status"/>
-</td>
-</tr>
-</table>
-
-**Founder & Lead Instructor:** [Mohammed Awad Ahmed (Silva)](https://www.linkedin.com/in/maas-ai)  
-**Course:** Practical Introduction to ML/DL Systems  
-**Established:** December 2024 | **Last Updated:** December 2025
-
-</div>
-
----
-
-## 👨‍💼 About the Founder
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://www.linkedin.com/in/maas-ai">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<br/>
-Mohammed Awad Ahmed
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/silvaxxx1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<br/>
-@silvaxxx1
 </a>
 </td>
-<td align="center" width="33%">
-<a href="https://silvaxxx1.github.io/MyWebsite/">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-<br/>
-Personal Website
-</a>
+<td align="center">
+<img src="https://img.shields.io/badge/Current_Module-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Current Module"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
 </td>
 </tr>
 </table>
 
+**Track Lead:** [Mohammed Awad Ahmed (Silva)](https://www.linkedin.com/in/maas-ai)  
+**Duration:** 6-9 months (self-paced)  
+**Level:** Junior (Foundation to Intermediate)
+
 </div>
-
-**Mohammed Awad Ahmed (Silva)** is a Sudanese AI engineer, researcher, and educator dedicated to democratizing artificial intelligence education in Sudan and across Africa. With a passion for both the theoretical foundations and practical applications of AI, he founded SAIR to bridge the gap between academic knowledge and real-world implementation.
-
-### 🎓 **Professional Journey:**
-- **AI Research Engineer** with focus on practical ML/DL systems
-- **Experienced Educator** in machine learning and deep learning
-- **Open Source Contributor** to various AI/ML projects
-- **Community Builder** fostering AI talent in the Global South
-
-### 🎯 **Founder's Vision for SAIR:**
-> "I believe that talent is equally distributed, but opportunity is not. SAIR exists to change that equation for Sudanese and African AI enthusiasts. By combining quality education with community support and real-world projects, we're building a pipeline of AI talent that can solve local problems and compete globally."
 
 ---
 
-## 🌟 About SAIR
+## 🎯 About SAIR Jr.
+
+SAIR Jr. is the **foundational certification track** within the Sudanese Artificial Intelligence Research (SAIR) ecosystem. This track takes you from Python fundamentals to production-ready ML systems, preparing you for either:
+
+- 🚀 **Industry roles** as a Junior ML Engineer
+- 📚 **Advanced tracks** like SAIR Mid/Sr. (coming soon)
+- 💼 **Real-world projects** solving local challenges
+
+### 🏛️ SAIR Learning Ecosystem
+
+```
+🌐 SAIR ORGANIZATION
+│
+├── 🎓 SAIR Jr. (YOU ARE HERE)
+│   └── Foundation → Production ML/DL
+│
+├── 🔥 SAIR Mid (COMING SOON)
+│   └── Advanced AI → Research & Specialization
+│
+└── 🏆 SAIR Sr. (FUTURE)
+    └── AI Leadership → System Architecture
+```
+
+---
+
+## 📚 Complete SAIR Jr. Curriculum
 
 <div align="center">
 
-### **السير** - "Walking on a road" in Arabic
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 **Our Vision**
-To create a self-sustaining AI ecosystem in Sudan where local talent can learn, build, and deploy AI solutions that solve real-world problems while competing on the global stage.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 **Our Mission**
-Democratize AI education and empower Sudanese talent to become global AI leaders through quality education, practical experience, and community support.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-**SAIR** is a **revolutionary community-driven initiative** born in Sudan to bridge the AI skills gap and empower the next generation of African AI innovators.
-
-<div align="center">
-
-### ✨ **What Makes SAIR Unique?**
-
-<table>
-<thead>
-<tr>
-<th width="20%">Aspect</th>
-<th width="40%">🌟 SAIR Approach</th>
-<th width="40%">📚 Traditional Learning</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>Community</strong></td>
-<td>🤝 Live interactive sessions with peers<br/>👥 Study groups & mentorship<br/>🌍 Real-time collaboration</td>
-<td>📚 Solo learning<br/>😔 Limited interaction<br/>🏛️ Isolated experience</td>
-</tr>
-<tr>
-<td align="center"><strong>Practicality</strong></td>
-<td>🛠️ Build real projects from day one<br/>💼 Portfolio-ready work<br/>🚀 Deploy live applications</td>
-<td>📖 Theory-focused<br/>📝 Abstract exercises<br/>🎓 Academic emphasis</td>
-</tr>
-<tr>
-<td align="center"><strong>Accessibility</strong></td>
-<td>🌍 Free and open to all<br/>💻 Self-paced learning<br/>📱 Mobile-friendly</td>
-<td>💰 Often expensive<br/>⏰ Fixed schedules<br/>🏢 Location-dependent</td>
-</tr>
-<tr>
-<td align="center"><strong>Support</strong></td>
-<td>👨‍🏫 Expert mentorship<br/>🆘 24/7 community help<br/>📊 Career guidance</td>
-<td>🏛️ Limited guidance<br/>⏳ Office hours only<br/>📧 Slow responses</td>
-</tr>
-<tr>
-<td align="center"><strong>Impact</strong></td>
-<td>🇸🇩 Focus on local challenges<br/>🌍 African context<br/>💡 Real-world solutions</td>
-<td>🌐 Generic problems<br/>🏙️ Western-centric<br/>📚 Textbook examples</td>
-</tr>
-</tbody>
-</table>
-
-</div>
-
----
-
-## 🏛️ The SAIR Learning Ecosystem
-
-<div>
-
-### **Your Complete AI Learning Journey**
-
-```
-🌐 SAIR LEARNING UNIVERSE
-├── 🎤 LIVE COMMUNITY SESSIONS
-│   ├── 📺 Weekly Interactive Lectures
-│   ├── ❓ Real-time Q&A with Experts
-│   ├── 🎯 Project Showcases
-│   └── 💼 Career Guidance Sessions
-│
-├── 💻 THIS REPOSITORY
-│   ├── 📚 200+ Code Examples
-│   ├── 🚀 15+ Complete Projects
-│   ├── ⚙️ Production-ready Templates
-│   └── 🎓 Self-paced Learning Paths
-│
-└── 👥 PEER SUPPORT NETWORK
-    ├── 👥 Study Groups
-    ├── 👨‍💻 Code Reviews
-    ├── 🏆 Hackathon Teams
-    └── 💼 Job Opportunity Sharing
-```
-
-</div>
-
-<div>
-
-### 🎯 **This Repository's Role**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>1️⃣</h3>
-<strong>Practice</strong><br/>
-Apply what you learn<br/>in lectures
-</td>
-<td align="center" width="25%">
-<h3>2️⃣</h3>
-<strong>Experiment</strong><br/>
-Work with real<br/>production code
-</td>
-<td align="center" width="25%">
-<h3>3️⃣</h3>
-<strong>Build</strong><br/>
-Create portfolio-worthy<br/>projects
-</td>
-<td align="center" width="25%">
-<h3>4️⃣</h3>
-<strong>Master</strong><br/>
-Production-grade<br/>ML workflows
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🗺️ Complete Learning Roadmap
-
-<div>
-
-### 🚀 **Phase 1: SAIR Jr. Certification Path**
-*Complete all modules to earn your SAIR Jr. certification*
-
-```
-📁 SAIR JR. CERTIFICATION PATH
-│
-├── 🟢 FOUNDATIONS TRACK
-│   ├── 🐍 Module 0: Python ML Foundations
-│   ├── 📈 Module 1: Regression Mastery
-│   ├── 🎯 Module 2: Classification & Pipelines
-│   └── 🧠 Module 3: Neural Networks from Scratch
-│
-├── 🟡 ADVANCED TRACK
-│   ├── 🔥 Module 4: Applied Deep Learning
-│   └── ⚙️ Module 5: Introduction to MLOps
-│
-└── 🔴 CAPSTONE PROJECT
-    ├── 💎 Real-World Project
-    ├── 🚀 Deployment
-    ├── 📊 Documentation
-    └── 🏆 Certification
-```
-
-</div>
-
-### 📊 **Learning Timeline & Commitment(Just an estimate/this is self-pace learning)**
-
-<div>
+### **6 Core Modules + Capstone Project**
 
 <table>
 <thead>
 <tr>
 <th width="15%">Module</th>
+<th width="30%">Focus</th>
 <th width="15%">Duration</th>
-<th width="15%">Weekly Hours</th>
-<th width="30%">Skills Gained</th>
-<th width="25%">Prerequisites</th>
+<th width="15%">Status</th>
+<th width="25%">Key Outcome</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center"><strong>Module 0</strong><br/>🐍</td>
+<td>Python ML Foundations<br/><em>NumPy, Pandas, Matplotlib</em></td>
 <td align="center">2-3 weeks</td>
-<td align="center">8-10 hrs</td>
-<td>Python, Data Manipulation,<br/>Visualization</td>
-<td>Basic programming</td>
+<td align="center">✅ Complete</td>
+<td>Data Science Toolkit</td>
 </tr>
 <tr>
 <td align="center"><strong>Module 1</strong><br/>📈</td>
+<td>Regression & Deployment<br/><em>Scikit-learn, MLflow, Gradio</em></td>
 <td align="center">3-4 weeks</td>
-<td align="center">10-12 hrs</td>
-<td>ML Models, Deployment,<br/>Experiment Tracking</td>
-<td>Module 0</td>
+<td align="center">✅ Complete</td>
+<td>First Deployed ML Model</td>
 </tr>
 <tr>
 <td align="center"><strong>Module 2</strong><br/>🎯</td>
+<td>Classification Pipelines<br/><em>Production ML Systems</em></td>
 <td align="center">3-4 weeks</td>
-<td align="center">12-15 hrs</td>
-<td>Production Pipelines,<br/>Advanced Classification</td>
-<td>Module 1</td>
+<td align="center">✅ Complete</td>
+<td>End-to-End ML Pipeline</td>
 </tr>
 <tr>
 <td align="center"><strong>Module 3</strong><br/>🧠</td>
+<td>Neural Networks from Scratch<br/><em>Backprop, Optimization, Math</em></td>
 <td align="center">4-5 weeks</td>
-<td align="center">15-20 hrs</td>
-<td>Deep Learning Fundamentals,<br/>Math Behind AI</td>
-<td>Module 2</td>
+<td align="center">✅ Complete</td>
+<td>Deep Learning Foundations</td>
 </tr>
-<tr>
+<tr style="background-color: #fff3cd;">
 <td align="center"><strong>Module 4</strong><br/>🔥</td>
+<td>Applied Deep Learning<br/><em>PyTorch, CNN, RNN, Transformers</em></td>
 <td align="center">4-6 weeks</td>
-<td align="center">15-20 hrs</td>
-<td>PyTorch, CNN/RNN,<br/>Transformers</td>
-<td>Module 3</td>
+<td align="center">🔄 <strong>IN PROGRESS</strong></td>
+<td>Modern AI Applications</td>
 </tr>
 <tr>
 <td align="center"><strong>Module 5</strong><br/>⚙️</td>
+<td>MLOps & Production<br/><em>Docker, CI/CD, Monitoring</em></td>
 <td align="center">4-6 weeks</td>
-<td align="center">15-20 hrs</td>
-<td>MLOps, Cloud Deployment,<br/>CI/CD</td>
-<td>Module 4</td>
+<td align="center">📋 Next</td>
+<td>Production ML Systems</td>
 </tr>
 <tr>
 <td align="center"><strong>Capstone</strong><br/>💎</td>
+<td>Real-World Project<br/><em>End-to-End Implementation</em></td>
 <td align="center">4-8 weeks</td>
-<td align="center">Variable</td>
-<td>End-to-end Project<br/>Development</td>
-<td>All Modules</td>
-</tr>
-<tr style="background-color: #f0f0f0; font-weight: bold;">
-<td align="center" colspan="2"><strong>Total Duration</strong></td>
-<td align="center" colspan="3"><strong>24-36 weeks (6-9 months)</strong></td>
+<td align="center">🎯 Final</td>
+<td>SAIR Jr. Certificate</td>
 </tr>
 </tbody>
 </table>
@@ -318,780 +134,261 @@ Production-grade<br/>ML workflows
 
 ---
 
-## 📚 Detailed Module Breakdown
+## 🔥 Current Module: Applied Deep Learning (Module 4)
 
 <div align="center">
 
-### 🐍 **Module 0: Python ML Foundations**
-*Your data science toolkit foundation*
+### **Building Modern AI with PyTorch**
+
+**Progress:** Week 3 of 6 | **Focus:** Computer Vision & NLP Foundations
+
+</div>
+
+### 📖 Module 4 Learning Path
 
 <table>
 <thead>
 <tr>
-<th width="10%">Week</th>
-<th width="30%">Topics</th>
-<th width="30%">Projects</th>
-<th width="30%">Skills</th>
+<th width="10%">Lesson</th>
+<th width="25%">Topic</th>
+<th width="35%">Key Concepts</th>
+<th width="30%">Hands-on Projects</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>1</strong></td>
-<td>Python Essentials, OOP, Functions</td>
-<td>🧮 Calculator App</td>
-<td>Core Programming</td>
-</tr>
-<tr>
-<td align="center"><strong>2</strong></td>
-<td>NumPy Arrays, Operations</td>
-<td>🖼️ Image Filtering</td>
-<td>Numerical Computing</td>
-</tr>
-<tr>
-<td align="center"><strong>3</strong></td>
-<td>Pandas DataFrames, Cleaning</td>
-<td>📊 Data Analysis Project</td>
-<td>Data Manipulation</td>
-</tr>
-<tr>
-<td align="center"><strong>4</strong></td>
-<td>Matplotlib/Seaborn Visualization</td>
-<td>📈 Dashboard Creation</td>
-<td>Data Visualization</td>
-</tr>
-</tbody>
-</table>
-
-**🎯 Outcome:** Ready to tackle any data science problem with Python
-
-</div>
-
----
-
-### 📈 **Module 1: Regression Mastery**
-*From theory to deployed models*
-
-<details>
-<summary><strong>🔽 Click to Expand Module Details</strong></summary>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### **📖 Core Concepts**
-- Linear Regression from scratch
-- Gradient Descent optimization
-- Feature engineering & selection
-- Model evaluation metrics
-  - MSE (Mean Squared Error)
-  - MAE (Mean Absolute Error)
-  - R² Score
-
-</td>
-<td width="50%" valign="top">
-
-#### **🛠️ Tools Mastered**
-- Scikit-learn pipelines
-- Gradio web deployment
-- MLflow experiment tracking
-- Feature importance analysis
-- Model versioning
-- API development basics
-
-</td>
-</tr>
-</table>
-
-</div>
-
-</details>
-
----
-
-### 🎯 **Module 2: Classification & Pipelines**
-*Production-grade ML systems*
-
-<details>
-<summary><strong>🔽 Click to Expand Module Details</strong></summary>
-
-#### **🏗️ Architecture You'll Build:**
-
-```
-classification_project/
-├── 📁 config/              # YAML configurations
-├── 📁 data/                # Data processing pipelines
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   └── split.py
-├── 📁 models/              # Training and evaluation
-│   ├── train.py
-│   ├── evaluate.py
-│   └── hypertune.py
-├── 📁 utils/               # Experiment tracking
-│   └── logger.py
-├── 📁 streamlit_app/       # Deployment
-│   └── app.py
-└── 📁 tests/               # Unit tests
-```
-
-<div align="center">
-
-#### **🎓 Key Learnings**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Algorithms & Metrics**
-- ✅ Logistic Regression
-- ✅ Precision, Recall, F1-score
-- ✅ ROC curves & AUC
-- ✅ Confusion matrices
-- ✅ Cross-validation
-
-</td>
-<td width="50%" valign="top">
-
-**Production Skills**
-- ⚙️ Hyperparameter tuning (Optuna)
-- 💾 Model serialization
-- 🔄 Pipeline automation
-- 📊 Performance monitoring
-- 🧪 A/B testing basics
-
-</td>
-</tr>
-</table>
-
-#### **💎 Capstone Project: Medical Diagnosis System**
-
-<table>
-<tr>
-<td align="center" width="25%">
-📊<br/><strong>Patient Data<br/>Processing</strong>
-</td>
-<td align="center" width="25%">
-🤖<br/><strong>Multiple<br/>Algorithms</strong>
-</td>
-<td align="center" width="25%">
-⚡<br/><strong>Real-time<br/>Predictions</strong>
-</td>
-<td align="center" width="25%">
-📈<br/><strong>Performance<br/>Monitoring</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
-</details>
-
----
-
-### 🧠 **Module 3: Neural Networks from Scratch**
-*Understanding the magic behind deep learning*
-
-<details>
-<summary><strong>🔽 Click to Expand Module Details</strong></summary>
-
-#### **🔬 What You'll Implement:**
-
-```python
-# Build your own neural network library
-class NeuralNetwork:
-    def __init__(self):
-        self.layers = []
-        self.loss = None
-        
-    def add_layer(self, neurons, activation='relu'):
-        """Add a new layer to the network"""
-        pass
-    
-    def forward(self, X):
-        """Forward propagation"""
-        pass
-    
-    def backward(self, y_pred, y_true):
-        """Backward propagation"""
-        pass
-    
-    def train(self, X, y, epochs, learning_rate):
-        """Training loop with optimization"""
-        pass
-```
-
-<div align="center">
-
-#### **📖 Topics Covered**
-
-<table>
-<thead>
-<tr>
-<th width="33%">🔄 Propagation</th>
-<th width="33%">⚡ Activations</th>
-<th width="34%">📉 Optimization</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="top">
-• Forward pass<br/>
-• Backward pass<br/>
-• Gradient computation<br/>
-• Chain rule<br/>
-• Weight updates
-</td>
-<td valign="top">
-• ReLU<br/>
-• Sigmoid<br/>
-• Tanh<br/>
-• Softmax<br/>
-• Leaky ReLU
-</td>
-<td valign="top">
-• SGD<br/>
-• Momentum<br/>
-• Adam<br/>
-• RMSprop<br/>
-• Learning rate decay
-</td>
-</tr>
-</tbody>
-</table>
-
-#### **🎯 Final Project: MiniTorch**
-
-Create your own deep learning library that can:
-
-<table>
-<tr>
-<td align="center" width="25%">
-🎯<br/><strong>Train on<br/>MNIST</strong>
-</td>
-<td align="center" width="25%">
-🏗️<strong>Multiple<br/>Layer Types</strong>
-</td>
-<td align="center" width="25%">
-⚙️<strong>Various<br/>Optimizers</strong>
-</td>
-<td align="center" width="25%">
-📊<br/><strong>95%+<br/>Accuracy</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
-</details>
-
----
-
-### 🔥 **Module 4: Applied Deep Learning**
-*Modern AI with PyTorch*
-
-<details>
-<summary><strong>🔽 Click to Expand Module Details</strong></summary>
-
-<div align="center">
-
-#### **📅 Curriculum Breakdown**
-
-<table>
-<thead>
-<tr>
-<th width="15%">Timeline</th>
-<th width="25%">Focus Area</th>
-<th width="60%">Topics Covered</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>Week 1-2</strong><br/>👁️</td>
-<td><strong>Computer Vision</strong></td>
+<td align="center"><strong>1</strong><br/>⚡</td>
+<td><strong>PyTorch Internals & Foundations</strong></td>
 <td>
-• CNN architectures (ResNet, VGG, EfficientNet)<br/>
-• Transfer learning & fine-tuning<br/>
-• Image segmentation techniques<br/>
-• Object detection fundamentals
+• Tensors & autograd<br/>
+• Computation graphs<br/>
+• GPU acceleration<br/>
+• nn.Module architecture
 </td>
-</tr>
-<tr>
-<td align="center"><strong>Week 3-4</strong><br/>📝</td>
-<td><strong>Natural Language<br/>Processing</strong></td>
 <td>
-• Word embeddings (Word2Vec, GloVe)<br/>
-• RNNs and LSTMs<br/>
-• Attention mechanisms<br/>
-• Transformers architecture
+🔧 Custom layers<br/>
+📊 Autograd mechanics<br/>
+⚡ GPU optimization
 </td>
 </tr>
 <tr>
-<td align="center"><strong>Week 5-6</strong><br/>🚀</td>
-<td><strong>Advanced Topics</strong></td>
+<td align="center"><strong>2</strong><br/>📦</td>
+<td><strong>Building Efficient Data Pipelines</strong></td>
 <td>
-• Generative Models (GANs, VAEs)<br/>
-• Reinforcement Learning basics<br/>
-• Multimodal learning<br/>
-• Model optimization techniques
+• Dataset & DataLoader<br/>
+• Data augmentation<br/>
+• Memory optimization<br/>
+• Multi-processing
+</td>
+<td>
+🔄 Custom datasets<br/>
+💾 Efficient loading<br/>
+🚀 Parallel processing
+</td>
+</tr>
+<tr style="background-color: #fff3cd;">
+<td align="center"><strong>3</strong><br/>👁️<br/>⬅️ <em>NOW</em></td>
+<td><strong>Computer Vision & CNNs</strong></td>
+<td>
+• Convolutional layers<br/>
+• Pooling & normalization<br/>
+• CNN architectures<br/>
+• Image classification
+</td>
+<td>
+🖼️ Image classifier<br/>
+🏗️ Custom CNN<br/>
+📸 Object detection
+</td>
+</tr>
+<tr>
+<td align="center"><strong>4</strong><br/>🔄</td>
+<td><strong>Transfer Learning</strong></td>
+<td>
+• Pre-trained models<br/>
+• Fine-tuning strategies<br/>
+• Feature extraction<br/>
+• Domain adaptation
+</td>
+<td>
+🌾 Crop disease detector<br/>
+🎨 Style transfer<br/>
+🔍 Few-shot learning
+</td>
+</tr>
+<tr>
+<td align="center"><strong>5</strong><br/>📝</td>
+<td><strong>NLP & Sequence Learning</strong></td>
+<td>
+• Word embeddings<br/>
+• RNN, LSTM, GRU<br/>
+• Attention mechanism<br/>
+• Sequence-to-sequence
+</td>
+<td>
+💬 Sentiment analysis<br/>
+🌍 Arabic text classifier<br/>
+📰 Named entity recognition
+</td>
+</tr>
+<tr>
+<td align="center"><strong>6</strong><br/>🤖</td>
+<td><strong>LLMs & Advanced Architectures</strong></td>
+<td>
+• Transformer architecture<br/>
+• Self-attention<br/>
+• BERT, GPT concepts<br/>
+• HuggingFace ecosystem
+</td>
+<td>
+🔤 Text generation<br/>
+❓ Question answering<br/>
+🌐 Multilingual models
+</td>
+</tr>
+<tr>
+<td align="center"><strong>7</strong><br/>⚙️</td>
+<td><strong>Optimizing for Deployment</strong></td>
+<td>
+• Model quantization<br/>
+• Pruning & distillation<br/>
+• ONNX conversion<br/>
+• TorchScript & JIT
+</td>
+<td>
+📦 Mobile deployment<br/>
+⚡ Model optimization<br/>
+🚀 Production serving
 </td>
 </tr>
 </tbody>
 </table>
 
-#### **🎨 Projects Portfolio**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h4>📱 Project 1</h4>
-<strong>Arabic Text<br/>Classification</strong><br/>
-Local language NLP
-</td>
-<td align="center" width="25%">
-<h4>🌾 Project 2</h4>
-<strong>Crop Disease<br/>Detection</strong><br/>
-CV for agriculture
-</td>
-<td align="center" width="25%">
-<h4>🎤 Project 3</h4>
-<strong>Speech Recognition<br/>System</strong><br/>
-Audio processing
-</td>
-<td align="center" width="25%">
-<h4>📰 Project 4</h4>
-<strong>News Recommendation<br/>Engine</strong><br/>
-Personalization AI
-</td>
-</tr>
-</table>
-
-</div>
-
-</details>
-
 ---
 
-### ⚙️ **Module 5: MLOps & Production**
-*Taking models from notebook to production*
+## 📚 Required Reading & Resources
 
-<details>
-<summary><strong>🔽 Click to Expand Module Details</strong></summary>
+### 🎥 **Mandatory Playlist for MLOps Preparation**
 
-#### **🔄 Production Pipeline:**
-
-```
-📝 GitHub → 🔄 CI/CD → 🐳 Docker Build → 📦 Registry → ☁️ Cloud → 📊 Monitoring
-   ↓            ↓              ↓              ↓           ↓           ↓
-✅ Tests     🚀 Auto-deploy  📦 Container   💾 Storage  ⚡ Serving  🚨 Alerts
-```
+**Before starting Module 5**, all students must complete:
 
 <div align="center">
 
-#### **🛠️ Skills You'll Gain**
+[![MLOps Playlist](https://img.shields.io/badge/Watch-MLOps_Fundamentals-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L&si=jtq8S558WOKxDPWK)
 
-<table>
-<thead>
-<tr>
-<th width="33%">🐳 Containerization</th>
-<th width="33%">☁️ Cloud & CI/CD</th>
-<th width="34%">📊 Monitoring</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="top">
-• Docker basics<br/>
-• Docker Compose<br/>
-• Container optimization<br/>
-• Multi-stage builds<br/>
-• Kubernetes intro
-</td>
-<td valign="top">
-• GitHub Actions<br/>
-• AWS SageMaker<br/>
-• Azure ML<br/>
-• GCP AI Platform<br/>
-• Automated testing
-</td>
-<td valign="top">
-• Prometheus<br/>
-• Grafana<br/>
-• MLflow Tracking<br/>
-• Model drift detection<br/>
-• Alert systems
-</td>
-</tr>
-</tbody>
-</table>
-
-#### **💎 Final Deployment Project**
-
-<table>
-<tr>
-<td align="center" width="25%">
-🔄<br/><strong>Auto-retraining<br/>Pipeline</strong>
-</td>
-<td align="center" width="25%">
-🧪<br/><strong>A/B Testing<br/>Framework</strong>
-</td>
-<td align="center" width="25%">
-📈<br/><strong>Performance<br/>Dashboard</strong>
-</td>
-<td align="center" width="25%">
-🚨<br/><strong>Alert System<br/>for Drift</strong>
-</td>
-</tr>
-</table>
+**Duration:** ~8-10 hours | **Deadline:** Before Module 5 Week 1
 
 </div>
 
-</details>
-
----
-
-## 🛠️ Technology Stack Evolution
-
-<div align="center">
-
-### **Your Growing Toolkit**
-
-<table>
-<thead>
-<tr>
-<th width="15%">Phase</th>
-<th width="30%">Core Tools</th>
-<th width="30%">Supporting Tools</th>
-<th width="25%">Deployment</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>Foundation</strong><br/>🐍</td>
-<td>Python, Jupyter, NumPy</td>
-<td>Git, Markdown, VS Code</td>
-<td>Local</td>
-</tr>
-<tr>
-<td align="center"><strong>ML Basics</strong><br/>📊</td>
-<td>Scikit-learn, Pandas</td>
-<td>Matplotlib, Seaborn</td>
-<td>Gradio</td>
-</tr>
-<tr>
-<td align="center"><strong>Advanced ML</strong><br/>⚙️</td>
-<td>MLflow, Optuna</td>
-<td>Streamlit, Plotly</td>
-<td>Web Apps</td>
-</tr>
-<tr>
-<td align="center"><strong>Deep Learning</strong><br/>🔥</td>
-<td>PyTorch, Transformers</td>
-<td>Weights & Biases, TensorBoard</td>
-<td>APIs</td>
-</tr>
-<tr>
-<td align="center"><strong>Production</strong><br/>🐳</td>
-<td>Docker, Kubernetes</td>
-<td>FastAPI, PostgreSQL</td>
-<td>Cloud</td>
-</tr>
-<tr>
-<td align="center"><strong>Enterprise</strong><br/>🏢</td>
-<td>Airflow, Kubeflow</td>
-<td>Terraform, Prometheus</td>
-<td>Multi-cloud</td>
-</tr>
-</tbody>
-</table>
-
-### 📈 **Skills Growth Timeline**
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                         📊 YOUR SKILLS GROWTH                            │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│  🐍 Level 1:  Python • Pandas • Matplotlib • NumPy • Git              │
-│                 ████████████░░░░░░░░░░░░░░░░░░░░░░░░ 30%               │
-│                                                                          │
-│  🤖 Level 2:  Scikit-learn • MLflow • Streamlit • Gradio              │
-│                 ████████████████████░░░░░░░░░░░░░░░░ 50%               │
-│                                                                          │
-│  🧠 Level 3:  NumPy NN • Math • Optimization • Backprop               │
-│                 ████████████████████████████░░░░░░░░ 70%               │
-│                                                                          │
-│  🔥 Level 4:  PyTorch • CNN • RNN • Transformers                      │
-│                 ████████████████████████████████████░ 85%               │
-│                                                                          │
-│  🐳 Level 5: Docker • Kubernetes • Cloud • Monitoring                │
-│                 ████████████████████████████████████████ 100%           │
-│                                                                          │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 📚 SAIR Library: Essential Learning Resources
-
-<div align="center">
-
-### **📖 Curated Knowledge Repository for Your AI Journey**
-
-> "All books are provided free of charge by SAIR upon request. Simply ask in our community channels!"
-
-</div>
-
-### **📚 Resource Categories**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>📘 <strong>Mandatory</strong></h3>
-Core reading for certification<br/>
-<em>Essential for all learners</em>
-</td>
-<td align="center" width="33%">
-<h3>📗 <strong>Book Club</strong></h3>
-Community reading & discussions<br/>
-<em>Weekly group sessions</em>
-</td>
-<td align="center" width="33%">
-<h3>📙 <strong>Reference</strong></h3>
-Quick lookups & deep dives<br/>
-<em>Keep on your digital shelf</em>
-</td>
-</tr>
-</table>
-
-</div>
-
-### **📖 Essential Books for SAIR Jr. Certification**
-
-<div align="center">
+### 📖 **Core Reading Materials**
 
 <table>
 <thead>
 <tr>
 <th width="25%">Book</th>
 <th width="20%">Type</th>
-<th width="25%">Modules</th>
-<th width="30%">How to Access</th>
+<th width="25%">Relevant Modules</th>
+<th width="30%">Access</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td valign="top">
-<strong>Python Data Science Handbook</strong><br/>
-<em>By Jake VanderPlas</em>
+<td>
+<strong>Hands-on Machine Learning</strong><br/>
+<em>Aurélien Géron</em>
 </td>
-<td align="center">📙 Reference</td>
-<td align="center">Module 1 & 2</td>
-<td>Request in #sair-library channel</td>
-</tr>
-<tr>
-<td valign="top">
-<strong>The Hundred-Page Machine Learning Book</strong><br/>
-<em>By Andriy Burkov</em>
-</td>
-<td align="center">📗 Book Club / 📘 Must</td>
+<td align="center">📘 Required</td>
 <td align="center">All Modules</td>
-<td>Provided for book club participants</td>
+<td>Request in #sair-library</td>
 </tr>
 <tr>
-<td valign="top">
-<strong>Hands-on Machine Learning with Scikit-Learn & PyTorch</strong><br/>
-<em>By Aurélien Géron</em>
+<td>
+<strong>The Hundred-Page ML Book</strong><br/>
+<em>Andriy Burkov</em>
 </td>
-<td align="center">📘 Must / 📙 Reference</td>
-<td align="center">Modules 0-5</td>
-<td>Mandatory - request from SAIR team</td>
+<td align="center">📗 Book Club</td>
+<td align="center">Modules 0-3</td>
+<td>Provided to participants</td>
 </tr>
-<tr>
-<td valign="top">
-<strong>Designing Machine Learning Systems</strong><br/>
-<em>By Chip Huyen</em>
+<tr style="background-color: #fff3cd;">
+<td>
+<strong>Designing ML Systems</strong><br/>
+<em>Chip Huyen</em>
 </td>
-<td align="center">📗 Book Club / 📘 Must</td>
-<td align="center">Modules 4 & 5</td>
-<td>Provided for MLOps track</td>
+<td align="center">📘 Required</td>
+<td align="center"><strong>Modules 4-5</strong></td>
+<td><strong>Start reading now!</strong><br/>Request from SAIR team</td>
 </tr>
 <tr>
-<td valign="top">
+<td>
 <strong>Dive into Deep Learning</strong><br/>
-<em>By Aston Zhang et al.</em>
+<em>Zhang et al.</em>
 </td>
 <td align="center">📙 Reference</td>
-<td align="center">Modules 3 & 4</td>
-<td>Available as PDF and interactive website</td>
+<td align="center">Modules 3-4</td>
+<td><a href="https://d2l.ai">d2l.ai</a> (free online)</td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-### **🗺️ Library Roadmap by Module**
+### 📅 **Reading Schedule for Current Phase**
 
 <div align="center">
 
-<table>
-<thead>
-<tr>
-<th width="15%">Module</th>
-<th width="85%">Recommended Reading Schedule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>Module 0-2<br/>🐍📊</strong></td>
-<td valign="top">
-<strong>Foundation Phase:</strong><br/>
-1. <strong>Start with:</strong> Python Data Science Handbook (Reference - request from SAIR)<br/>
-2. <strong>Book Club:</strong> The Hundred-Page Machine Learning Book (2 chapters/week)<br/>
-3. <strong>Core Reading:</strong> Hands-on Machine Learning (Chapters 1-9)<br/>
-<em>Focus: Data manipulation, basic ML, production pipelines</em>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>Module 3-4<br/>🧠🔥</strong></td>
-<td valign="top">
-<strong>Deep Learning Phase:</strong><br/>
-1. <strong>Core Reading:</strong> Hands-on Machine Learning (DL Chapters)<br/>
-2. <strong>Reference:</strong> Dive into Deep Learning (Interactive online)<br/>
-3. <strong>Book Club:</strong> Designing Machine Learning Systems (1 chapter/week)<br/>
-<em>Focus: Neural networks, PyTorch, system design</em>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>Module 5<br/>⚙️🏢</strong></td>
-<td valign="top">
-<strong>Production Phase:</strong><br/>
-1. <strong>Deep Dive:</strong> Designing Machine Learning Systems (Full book)<br/>
-2. <strong>Practical:</strong> Hands-on Machine Learning (Deployment chapters)<br/>
-3. <strong>Supplemental:</strong> Online resources for Docker, Kubernetes, Cloud<br/>
-<em>Focus: MLOps, deployment, monitoring, scaling</em>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>Capstone<br/>💎</strong></td>
-<td valign="top">
-<strong>Integration Phase:</strong><br/>
-• All above books as reference<br/>
-• Domain-specific papers and articles<br/>
-• SAIR project templates and guides<br/>
-• Community knowledge base contributions<br/>
-<em>Focus: End-to-end project implementation</em>
-</td>
-</tr>
-</tbody>
-</table>
+**Weeks 1-4 (Module 4):**
+- 📖 Hands-on ML: Deep Learning chapters (2-3 chapters/week)
+- 📖 Dive into Deep Learning: CNN & RNN sections (reference as needed)
+
+**Weeks 5-6 (Module 4) + Module 5 Prep:**
+- 📖 Designing ML Systems: Chapters 1-5 (1 chapter/week)
+- 🎥 MLOps Fundamentals Playlist (2-3 videos/week)
 
 </div>
 
-### **📚 How to Request Books**
+---
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h4>1️⃣ Join Community</h4>
-Telegram: #sair-library<br/>
-Access: Request in channel
-</td>
-<td align="center" width="33%">
-<h4>2️⃣ Specify Needs</h4>
-Module number<br/>
-Book title<br/>
-Format preference
-</td>
-<td align="center" width="33%">
-<h4>3️⃣ Receive Access</h4>
-Digital copies provided<br/>
-Reading groups formed<br/>
-Discussion channels created
-</td>
-</tr>
-</table>
-
-</div>
-
-### **🌟 Why This Library Matters**
-
-<div align="center">
+### **Tools You'll Master in SAIR Jr.**
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**🎯 Structured Learning:**
-- Books aligned with modules
-- Progressive difficulty
-- Community discussions
-- Practical applications
-
+<td align="center" width="20%">
+<h4>🐍 Foundation</h4>
+Python<br/>
+NumPy<br/>
+Pandas<br/>
+Matplotlib
 </td>
-<td width="50%" valign="top">
-
-**💰 Cost Elimination:**
-- All books provided free
-- No financial barriers
-- Equal access for all
-- Focus on learning
-
+<td align="center" width="20%">
+<h4>🤖 Classical ML</h4>
+Scikit-learn<br/>
+MLflow<br/>
+Gradio<br/>
+Streamlit
 </td>
-</tr>
-</table>
-
-</div>
-
-### **📢 Book Request Process**
-
-```bash
-# Step-by-step guide to get your books:
-
-1. Join SAIR Telegram community
-2. Navigate to #sair-library channel
-3. Message: "Book Request: [Book Title] for [Module X]"
-4. Provide your SAIR learner ID (if available)
-5. Receive digital copy within 24 hours
-6. Join corresponding reading/discussion group
-```
-
-### **📖 Additional Resources Provided**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h4>📝 Study Guides</h4>
-Chapter summaries<br/>
-Key concept cheatsheets<br/>
-Practice questions
+<td align="center" width="20%">
+<h4>🔥 Deep Learning</h4>
+PyTorch<br/>
+torchvision<br/>
+HuggingFace<br/>
+Weights & Biases
 </td>
-<td align="center" width="25%">
-<h4>🎯 Project Links</h4>
-Code examples<br/>
-Implementation guides<br/>
-Troubleshooting tips
+<td align="center" width="20%">
+<h4>⚙️ MLOps</h4>
+Docker<br/>
+FastAPI<br/>
+GitHub Actions<br/>
+Prometheus
 </td>
-<td align="center" width="25%">
-<h4>🌍 Local Context</h4>
-Sudanese datasets<br/>
-Arabic NLP resources<br/>
-African AI case studies
-</td>
-<td align="center" width="25%">
-<h4>👥 Community Notes</h4>
-Collective annotations<br/>
-Discussion transcripts<br/>
-Q&A compilations
+<td align="center" width="20%">
+<h4>☁️ Deployment</h4>
+AWS/GCP<br/>
+Kubernetes<br/>
+Grafana<br/>
+PostgreSQL
 </td>
 </tr>
 </table>
@@ -1100,495 +397,238 @@ Q&A compilations
 
 ---
 
-## 🎓 SAIR Jr. Certification
+## 🎓 Certification Requirements
 
-<div>
-
-### 💎 **Capstone Project Requirements**
-
-Your final project demonstrates comprehensive mastery across all areas
-
-```
-🎯 END-TO-END PROJECT FLOW
-├── 📋 Problem Definition
-├── 📊 Data Pipeline
-├── 🤖 Model Development
-├── ⚙️ Training Pipeline
-├── 📈 Evaluation
-├── 🚀 Deployment
-├── 📊 Monitoring
-├── 📚 Documentation
-└── 🏆 Certification
-```
-
-</div>
-
-#### **✅ Required Components:**
-
-<div align="center">
+### ✅ **SAIR Jr. Certificate Criteria**
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 1️⃣
-### **📊 Problem & Data**
-
-Real-world Sudanese/African context
-
-Clean, documented dataset
-
-Ethical considerations addressed
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 2️⃣
-### **🏗️ Implementation**
-
-Custom model (from scratch component)
-
-Production pipeline architecture
-
-Comprehensive testing suite
+**📚 Technical Requirements:**
+- ✅ Complete all 6 modules
+- ✅ Finish all hands-on projects
+- ✅ Pass module assessments (70%+)
+- ✅ Complete required reading
+- ✅ Watch MLOps playlist
+- ✅ Capstone project approval
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 3️⃣
-### **🚀 Deployment**
-
-Live application (web/mobile/API)
-
-User documentation
-
-Performance benchmarks
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 4️⃣
-### **📈 Sustainability**
-
-Monitoring setup
-
-Retraining pipeline
-
-Scalability considerations
+**🤝 Community Requirements:**
+- ✅ Active in SAIR community
+- ✅ Participate in study groups
+- ✅ Help 3+ fellow learners
+- ✅ Present 1 project showcase
+- ✅ Contribute to documentation
+- ✅ Provide peer code reviews
 
 </td>
 </tr>
 </table>
 
-</div>
+### 💎 **Capstone Project**
 
-### 🌍 **Impact Areas for Projects**
+Your final project must demonstrate:
 
-<div align="center">
-
-<table>
-<tr>
-<td width="20%" align="center" valign="top">
-
-### 🏥
-### **Healthcare**
-
-Disease prediction
-
-Drug discovery
-
-Health monitoring
-
-</td>
-<td width="20%" align="center" valign="top">
-
-### 🌾
-### **Agriculture**
-
-Yield optimization
-
-Pest detection
-
-Soil analysis
-
-</td>
-<td width="20%" align="center" valign="top">
-
-### 📚
-### **Education**
-
-Personalized learning
-
-Skill assessment
-
-Educational tools
-
-</td>
-<td width="20%" align="center" valign="top">
-
-### 💰
-### **Finance**
-
-Fraud detection
-
-Credit scoring
-
-Investment analysis
-
-</td>
-<td width="20%" align="center" valign="top">
-
-### 🏙️
-### **Infrastructure**
-
-Traffic optimization
-
-Energy management
-
-Urban planning
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🌟 **Featured Student Projects**
-
-<details>
-<summary><strong>🔽 View Current Projects</strong></summary>
-
-<div align="center">
-
-<table>
-<thead>
-<tr>
-<th width="20%">Project</th>
-<th width="20%">Student</th>
-<th width="30%">Tech Stack</th>
-<th width="15%">Impact</th>
-<th width="15%">Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-
-</tr>
-</tbody>
-</table>
-
-</div>
-
-</details>
+1. **🎯 Real Impact:** Solve a Sudanese/African problem
+2. **🏗️ Technical Depth:** Use skills from all modules
+3. **🚀 Production Ready:** Deployed, monitored, documented
+4. **📊 Evaluation:** Clear metrics and performance benchmarks
+5. **📚 Documentation:** GitHub repo, README, API docs
 
 ---
 
-## ⚡ Getting Started
+## 🚀 Getting Started
 
-<div align="center">
-
-### **📋 Prerequisites Checklist**
+### **📋 Prerequisites**
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-- [x] Basic programming knowledge
-- [x] Computer with 4GB+ RAM
-- [x] Stable internet connection
-- [x] GitHub account (free)
-- [x] Telegram account
+**✅ Required:**
+- Basic programming knowledge
+- Computer with 4GB+ RAM
+- 8-10 hours/week commitment
+- GitHub account
+- Telegram account
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-- [ ] 8-10 hours/week commitment
-- [ ] Curiosity to learn AI/ML
-- [ ] Willingness to collaborate
-- [ ] Problem-solving mindset
-- [ ] Sudanese/African context interest
+**💡 Recommended:**
+- Python basics (can learn in Module 0)
+- Basic math (algebra, calculus)
+- Problem-solving experience
+- English reading proficiency
+- Passion for AI/ML
 
 </td>
 </tr>
 </table>
 
-</div>
-
-### **🚀 Step-by-Step Setup**
+### **🎬 Quick Start**
 
 ```bash
 # 1. Clone the repository
 git clone https://github.com/silvaxxx1/SAIR.git
 cd SAIR
 
-# 2. Set up the environment (choose one method)
-
-# Method A: Using uv (recommended)
+# 2. Set up environment
 uv sync
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
-# Method B: Using conda
-conda create -n sair python=3.10
-conda activate sair
-pip install -r requirements.txt
-
-# 3. Launch Jupyter to start learning
-jupyter notebook 0_Python_ML_Foundations/SAIR_Lecture_0.ipynb
+# 3. Start learning
+jupyter notebook 0_Python_ML_Foundations/
 ```
 
+### **📱 Join the Community**
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>1️⃣ Join Telegram</h4>
+<a href="https://t.me/+jPPlO6ZFDbtlYzU0">SAIR Community</a><br/>
+Introduce yourself!
+</td>
+<td align="center" width="33%">
+<h4>2️⃣ Get Resources</h4>
+Request books in<br/>
+#sair-library channel
+</td>
+<td align="center" width="34%">
+<h4>3️⃣ Find Study Group</h4>
+Join a cohort in<br/>
+#study-groups
+</td>
+</tr>
 </table>
 
 </div>
 
 ---
 
-## 👥 The SAIR Community Experience
-
-<div align="center">
-
-### **🤝 More Than Just Learning – It's a Movement**
-
-[![Telegram Community](https://img.shields.io/badge/Join_SAIR_Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/+jPPlO6ZFDbtlYzU0)
-
-</div>
-
-
-</tr>
-</tbody>
-</table>
-
-</div>
-
-### **🤝 Support Structure**
+## 👥 Support Structure
 
 <div align="center">
 
 ```
-👤 YOU
-  │
+🎓 YOU
   ↓
 👥 Study Group (3-5 peers)
-  │
   ↓
-👨‍🏫 Module Mentor (Senior student)
-  │
+👨‍🏫 Module Mentor (Senior SAIR Jr. graduate)
   ↓
-🎓 Expert Mentor (Industry professional)
-  │
+🔥 Expert Mentor (Industry professional)
   ↓
-🏆 SAIR Core Team (Founders & Organizers)
+💎 SAIR Core Team (Founders & Instructors)
 ```
 
-</div>
-
-### **🎯 Career Development Support**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h4>📝</h4>
-<strong>Resume Workshops</strong><br/>
-Tailored for AI roles
-</td>
-<td align="center" width="25%">
-<h4>🎤</h4>
-<strong>Interview Preparation</strong><br/>
-Mock technical interviews
-</td>
-<td align="center" width="25%">
-<h4>💼</h4>
-<strong>Portfolio Building</strong><br/>
-GitHub profile optimization
-</td>
-<td align="center" width="25%">
-<h4>🤝</h4>
-<strong>Job Board</strong><br/>
-Exclusive opportunities
-</td>
-</tr>
-</table>
+**Weekly Office Hours:** Sunday 8PM - 10PM (GMT+3)  
+**Response Time:** <24 hours in community channels  
+**1-on-1 Mentoring:** Available upon request
 
 </div>
 
 ---
 
-## 🔥 Your Learning Journey Starts Today!
+## 🌟 What's Next After SAIR Jr.?
 
-### **🎯 Immediate Next Steps**
-
-<div align="center">
+### 🎯 **Career Paths**
 
 <table>
 <tr>
-<td align="center" width="20%">
-<h3>1️⃣</h3>
-⭐ <strong>Star this repository</strong><br/>
-Bookmark your learning hub
+<td align="center" width="25%">
+<h4>💼 Industry</h4>
+Junior ML Engineer<br/>
+Data Scientist<br/>
+AI Developer
 </td>
-<td align="center" width="20%">
-<h3>2️⃣</h3>
-📱 <strong>Join Community</strong><br/>
-Connect with peers
+<td align="center" width="25%">
+<h4>📚 SAIR Mid</h4>
+Advanced AI track<br/>
+Research focus<br/>
+Specializations
 </td>
-<td align="center" width="20%">
-<h3>3️⃣</h3>
-🐍 <strong>Start Module 0</strong><br/>
-Complete first notebook
+<td align="center" width="25%">
+<h4>🚀 Freelance</h4>
+ML Consultant<br/>
+AI Solutions<br/>
+Remote work
 </td>
-<td align="center" width="20%">
-<h3>4️⃣</h3>
-👋 <strong>Introduce yourself</strong><br/>
-Share your goals
-</td>
-<td align="center" width="20%">
-<h3>5️⃣</h3>
-📅 <strong>Block study time</strong><br/>
-Commit to learning
+<td align="center" width="25%">
+<h4>🏢 Entrepreneurship</h4>
+AI Startup<br/>
+Product development<br/>
+Innovation
 </td>
 </tr>
 </table>
 
-</div>
+### 🔥 **Coming Soon: SAIR Mid & Sr.**
 
-### **📣 Success Stories**
-
-<details>
-<summary><strong>🔽 Hear from our learners</strong></summary>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-> "I went from zero coding experience to deploying my first ML model in 3 months with SAIR. The community support made all the difference!"
-> 
-> **— Amina, Medical Student**
-
-</td>
-<td width="34%" valign="top">
-
-> "As a civil engineer, I never thought I'd build AI systems. SAIR's practical approach helped me create a construction safety prediction model."
-> 
-> **— Omar, Civil Engineer**
-
-</td>
-<td width="33%" valign="top">
-
-> "The SAIR Jr. certification opened doors I never expected. I'm now working remotely for an international AI company while continuing my studies."
-> 
-> **— Yousif, CS Student**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-</details>
-
-### **🌍 Our Vision for Sudan's AI Future**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-🏥<br/>
-<strong>AI-powered<br/>healthcare</strong>
-</td>
-<td align="center" width="20%">
-🌾<br/>
-<strong>Smart agriculture<br/>ensures food security</strong>
-</td>
-<td align="center" width="20%">
-🏫<br/>
-<strong>AI education<br/>accessible to all</strong>
-</td>
-<td align="center" width="20%">
-💼<br/>
-<strong>Tech jobs<br/>keep talent in Sudan</strong>
-</td>
-<td align="center" width="20%">
-🚀<br/>
-<strong>Sudanese AI<br/>innovations impact world</strong>
-</td>
-</tr>
-</table>
-
-</div>
+- **SAIR Mid:** Advanced AI, research methods, specialization tracks
+- **SAIR Sr.:** AI leadership, system architecture, mentorship roles
 
 ---
 
-## 📜 License & Contribution
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### **🤝 Contributing to SAIR**
+## 📞 Contact & Resources
 
 <div align="center">
 
+**Founded by:** [Mohammed Awad Ahmed (Silva)](https://www.linkedin.com/in/maas-ai)
+
 <table>
 <tr>
-<td align="center" width="20%">
-📚<br/>
-<strong>Improve<br/>Documentation</strong>
+<td align="center">
+<a href="mailto:silvaxxx1@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </td>
-<td align="center" width="20%">
-💡<br/>
-<strong>Add<br/>Examples</strong>
+<td align="center">
+<a href="https://github.com/silvaxxx1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </td>
-<td align="center" width="20%">
-🏗️<br/>
-<strong>Create<br/>Projects</strong>
+<td align="center">
+<a href="https://www.linkedin.com/in/maas-ai">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </td>
-<td align="center" width="20%">
-🌍<br/>
-<strong>Translate<br/>Resources</strong>
-</td>
-<td align="center" width="20%">
-👨‍🏫<br/>
-<strong>Mentor<br/>Peers</strong>
+<td align="center">
+<a href="https://silvaxxx1.github.io/MyWebsite/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
-
-## **🌟 Join the Movement Today!**
-
-### **"السير" - "Walking on a road"**
-#### *Every great journey begins with a single step. Take yours today.*
+### **"السير" - Walking on a road**
+*Every expert was once a beginner. Start your journey today.*
 
 <table>
 <tr>
 <td align="center">
 <a href="https://github.com/silvaxxx1/SAIR">
-<img src="https://img.shields.io/badge/START_LEARNING_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Start Learning Now"/>
+<img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star"/>
 </a>
 </td>
 <td align="center">
 <a href="https://t.me/+jPPlO6ZFDbtlYzU0">
-<img src="https://img.shields.io/badge/JOIN_COMMUNITY-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Community"/>
+<img src="https://img.shields.io/badge/JOIN_COMMUNITY-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Join"/>
 </a>
 </td>
 </tr>
 </table>
 
----
+**License:** MIT | **Last Updated:** January 2025
 
-### **Together, let's build Sudan's AI future! 🇸🇩✨**
-
-**Founded by:** [Mohammed Awad Ahmed (Silva)](https://www.linkedin.com/in/maas-ai)  
-**Contact:** silvaxxx1@gmail.com | [GitHub](https://github.com/silvaxxx1) | [Portfolio](https://silvaxxx1.github.io/MyWebsite/)
-
-*Last Updated: December 2025 | SAIR v2.0*
+**Building Sudan's AI Future, One Learner at a Time 🇸🇩✨**
 
 </div>
