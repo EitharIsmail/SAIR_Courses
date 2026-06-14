@@ -3,8 +3,8 @@
 **From Mathematical Foundations to Production Deployment**
 
 **📍 Location:** `1_Regression/`  
-**🎯 Prerequisite:** [Module 0: Python Foundations](../0_Python_ML_Foundations/README.md)  
-**➡️ Next Module:** [Module 2: Classification & Pipelines](../3_Classification/README.md)
+**🎯 Prerequisite:** [Module 0: Python Foundations](../0_Python%20and%20Data%20Science%20Tools/README.md)  
+**➡️ Next Module:** [Module 2: Classification & Pipelines](../2_Classification/README.md)
 
 Welcome to the **Regression Module** of **SAIR** – your **first hands-on ML course** where you'll build real models, deploy interactive applications, and solve problems with your own datasets.
 
@@ -68,6 +68,22 @@ These are the **essential ML tools** that bridge experimentation to production.
 - Deploy models with Gradio and Streamlit
 - Track experiments with MLflow
 - Build end-to-end ML pipelines
+
+---
+
+## 🎯 Learning Outcomes
+
+After completing this module, you will be able to:
+
+| Skill | Where You Build It |
+|-------|--------------------|
+| Implement linear regression from scratch using NumPy | `Lecture_1.ipynb` |
+| Explain gradient descent and derive the cost function | `Lecture_1.ipynb` |
+| Use `sklearn` pipelines for preprocessing + modeling | `Lecture_2.ipynb` |
+| Evaluate models with MSE, RMSE, R² | `Lecture_2.ipynb` |
+| Track experiments with MLflow | `Lecture_3.ipynb` |
+| Deploy an interactive web app with Streamlit or Gradio | `Lecture_3.ipynb` |
+| Build an end-to-end ML project from data to deployment | Capstone |
 
 ---
 
@@ -168,6 +184,19 @@ https://github.com/user-attachments/assets/c72174a2-800f-458c-9602-55dfaaf037df
 
 ---
 
+## 🔧 Troubleshooting
+
+| Problem | Likely Cause | Fix |
+|---------|-------------|-----|
+| `streamlit: command not found` | Streamlit not installed | `uv sync` then `uv run streamlit run app.py` |
+| `Port 8501 already in use` | Another Streamlit instance running | Kill with `pkill -f streamlit` or use `--server.port 8502` |
+| MLflow UI shows no runs | Wrong tracking directory | Run `mlflow ui` from inside the module directory |
+| `ModuleNotFoundError` in notebooks | Wrong kernel selected | Kernel → Change Kernel → match your `uv` venv |
+| Pickle `ValueError` on model load | Model saved with different sklearn version | Retrain and re-save the model |
+| Gradio app won't open | Port conflict or firewall | Try `demo.launch(share=True)` |
+
+---
+
 ## 🤝 Get Help & Connect
 
 Stuck? Want feedback? Ready to showcase your work?
@@ -187,7 +216,7 @@ Share your progress, get code reviews, and join live sessions with instructors a
 → Explore [`Regression Capstone Projects/`](Regression%20Capstone%20Projects/)
 
 ### **Ready to advance?**
-→ Continue to [Module 2: Classification & Pipelines](../3_Classification/README.md)
+→ Continue to [Module 2: Classification & Pipelines](../2_Classification/README.md)
 
 ---
 
@@ -209,7 +238,7 @@ Share your progress, get code reviews, and join live sessions with instructors a
 
 ---
 
-**🔜 Next Step:** [Module 2: Classification & Production Pipelines](../3_Classification/README.md)
+**🔜 Next Step:** [Module 2: Classification & Production Pipelines](../2_Classification/README.md)
 
 ---
 

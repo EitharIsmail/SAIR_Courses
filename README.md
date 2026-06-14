@@ -1,8 +1,8 @@
-# 🚀 SAIR Jr. Certification Track: Your Launchpad into AI Engineering
+# 🚀 SAIR Jr. Certification Track: Your Launchpad into AI/ML Engineering
 
 <div align="center">
 
-![SAIR Banner](SAIR.jpg)
+![SAIR Banner](SAiR_logo.jpg)
 
 ### **Build Production-Ready AI Skills from Scratch**
 *The foundational AI/ML engineering program of the Sudanese Artificial Intelligence Research (SAIR) Initiative*
@@ -20,7 +20,7 @@
 </a>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/NOW_LEARNING-PyTorch_Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Current Module"/>
+<img src="https://img.shields.io/badge/COMING_SOON-Module_6:_MLOps-9C27B0?style=for-the-badge&logo=docker&logoColor=white" alt="Coming Soon"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/ENROLLMENT-OPEN-brightgreen?style=for-the-badge" alt="Status"/>
@@ -34,6 +34,20 @@
 **Prerequisites:** Basic programming mindset (we teach you Python!)
 
 </div>
+
+---
+
+## 🗺️ **Quick Navigation**
+
+| Module | Directory | README | Status |
+|--------|-----------|--------|--------|
+| 0 — Python & Data Science Tools | `0_Python and Data Science Tools/` | [README](0_Python%20and%20Data%20Science%20Tools/README.md) | ✅ Complete |
+| 1 — Regression | `1_Regression/` | [README](1_Regression/README.md) | ✅ Complete |
+| 2 — Classification & Pipelines | `2_Classification/` | [README](2_Classification/README.md) | ✅ Complete |
+| 3 — Neural Networks from Scratch | `3_Neural%20Network%20from%20scratch/` | [README](3_Neural%20Network%20from%20scratch/README.md) | ✅ Complete |
+| 4 — Applied Deep Learning with PyTorch | `4_Applied Deep Learning with PyTorch/` | [README](4_Applied%20Deep%20Learning%20with%20PyTorch/README.md) | ✅ Complete |
+| 5 — GPT from Scratch | `5_GPT from scratch/` | [README](5_GPT%20from%20scratch/README.md) · [🏆 Capstone](https://github.com/SAIR-Org/miniGPT) | ✅ Complete |
+| 6 — MLOps | `6_MLOps/` | — | 🔜 Incoming |
 
 ---
 
@@ -99,11 +113,12 @@
 │   ├── 📈 Module 1: First ML Model
 │   ├── 🎯 Module 2: Production ML
 │   ├── 🧠 Module 3: Neural Networks
-│   ├── 🔥 Module 4: Deep Learning (Current)
-│   ├── ⚙️ Module 5: MLOps
+│   ├── 🔥 Module 4: Deep Learning ✅
+│   ├── 🧠 Module 5: GPT from Scratch ✅
+│   ├── ⚙️ Module 6: MLOps (Coming Soon)
 │   └── 💎 Capstone: Real-World Project
 │
-├── 🚀 SAIR Mid (Coming 2025)
+├── 🚀 SAIR Mid (Planned Next Stage)
 │   └── Advanced AI → Research & Specialization
 │
 └── 🏆 SAIR Sr. (Future)
@@ -162,21 +177,29 @@
 <td>Custom neural network library</td>
 <td>Fundamental understanding</td>
 </tr>
-<tr style="background: linear-gradient(90deg, #fff3cd 0%, #fff8e1 100%); border-left: 4px solid #ffc107;">
+<tr>
 <td align="center"><strong>4 🔥</strong></td>
-<td><strong>Applied Deep Learning</strong><br/><em>PyTorch, CNN, RNN, Transformers</em></td>
-<td align="center">4-6 weeks</td>
-<td align="center">⚡ <strong>LIVE NOW</strong></td>
-<td>Computer vision & NLP apps</td>
+<td><strong>Applied Deep Learning</strong><br/><em>PyTorch, CNN, RNN, Transformers, HuggingFace</em></td>
+<td align="center">6-8 weeks</td>
+<td align="center">✅ Complete</td>
+<td>Vision apps, NLP pipelines, fine-tuned transformers</td>
 <td>Modern AI development</td>
 </tr>
 <tr>
-<td align="center"><strong>5 ⚙️</strong></td>
-<td><strong>MLOps & Scalable Systems</strong><br/><em>Docker, CI/CD, Monitoring, Cloud</em></td>
+<td align="center"><strong>5 🧠</strong></td>
+<td><strong>GPT from Scratch</strong><br/><em>Attention, transformer architecture, SFT</em></td>
 <td align="center">4-6 weeks</td>
-<td align="center">📋 Starting Soon</td>
-<td>Production-ready AI service</td>
-<td>DevOps for ML</td>
+<td align="center">✅ <strong>Complete</strong></td>
+<td>GPT language model, instruction-following fine-tuning</td>
+<td>LLM fundamentals</td>
+</tr>
+<tr>
+<td align="center"><strong>6 ⚙️</strong></td>
+<td><strong>MLOps</strong><br/><em>Docker · FastAPI · MLflow · DVC · Data Pipelines · CI/CD · Monitoring</em></td>
+<td align="center">6-8 weeks</td>
+<td align="center">🔜 <strong>Coming Soon</strong></td>
+<td>Production ML system: containerized, versioned, monitored, and deployed</td>
+<td>Production operations</td>
 </tr>
 <tr style="background-color: #e8f5e9; border-left: 4px solid #4caf50;">
 <td align="center"><strong>💎 Capstone</strong></td>
@@ -193,82 +216,99 @@
 
 ---
 
-## 🔥 **Jump Into Our Current Module: Applied Deep Learning**
+## ✅ **Module 5 Complete: GPT from Scratch**
 
 <div align="center">
 
-### **🟢 Week 3 of 6: Computer Vision & CNNs**
+### **✅ Module 5 Complete: GPT from Scratch**
 
-**Where we are now:** Building image classifiers with convolutional neural networks  
-**Next week:** Transfer learning for real-world applications
+**What we built:** A full GPT-2 language model from a blank file using only PyTorch  
+**Textbook:** *Build a Large Language Model (From Scratch)* — Sebastian Raschka  
+**Capstone:** [miniGPT](https://github.com/SAIR-Org/miniGPT) — full-stack CLI + Modal cloud training + web UI
 
 <table>
 <tr>
 <td width="60%" align="center">
-<h4>📊 This Week's Progress</h4>
+<h4>📊 Module Progress</h4>
 <div style="background: #f5f5f5; padding: 10px; border-radius: 8px;">
-<div style="background: linear-gradient(90deg, #4caf50 65%, #e0e0e0 35%); height: 20px; border-radius: 10px;"></div>
-<p style="margin-top: 8px;"><strong>65% of Module 4 Complete</strong></p>
+<div style="background: linear-gradient(90deg, #4caf50 100%, #e0e0e0 0%); height: 20px; border-radius: 10px;"></div>
+<p style="margin-top: 8px;"><strong>All 5 Notebooks + 3 Appendixes Complete</strong></p>
 </div>
 </td>
 <td width="40%" align="center">
-<h4>👥 Community Activity</h4>
-<p>🚀 42 projects submitted this week<br/>
-💬 128 active discussions<br/>
-👁️ 3 project showcases scheduled</p>
+<h4>🧠 What We Built</h4>
+<p>🔤 Custom tokenizer + data pipeline<br/>
+👁️ Multi-head causal attention<br/>
+🏗️ Full GPT-2 architecture (124M params)<br/>
+⚡ Training loop V0→V4 (DDP)<br/>
+🎲 4 generation strategies + Gradio UI</p>
 </td>
 </tr>
 </table>
 
 </div>
 
-### 📖 **Module 4 Learning Journey: Build Modern AI Applications**
+### 📖 **Module 5 Learning Journey: Build a GPT Language Model**
+
+**5 core notebooks → 3 appendix notebooks → 1 production pipeline**
 
 <table>
 <thead>
 <tr>
-<th width="8%">Week</th>
+<th width="8%">Notebook</th>
 <th width="25%">Core Concept</th>
 <th width="32%">What You'll Understand</th>
-<th width="35%">Hands-On Project</th>
+<th width="35%">Hands-On Build</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>1</strong><br/>⚡</td>
-<td><strong>PyTorch Mastery</strong></td>
-<td>How tensors, autograd, and computation graphs power modern AI</td>
-<td>🔧 Build custom layers with GPU acceleration</td>
-</tr>
-<tr>
-<td align="center"><strong>2</strong><br/>📦</td>
-<td><strong>Data Engineering</strong></td>
-<td>Creating efficient pipelines for real-world datasets</td>
-<td>🔄 Process large image datasets with parallel loading</td>
+<td align="center"><strong>1</strong><br/>📦</td>
+<td><strong>Data & Tokenization</strong></td>
+<td>How raw text becomes token IDs ready for a language model</td>
+<td>🔤 Custom tokenizer V1/V2 + tiktoken BPE + sliding window DataLoader on 1.9M-token Harry Potter corpus</td>
 </tr>
 <tr style="background-color: #fff8e1; border-left: 3px solid #ff9800;">
-<td align="center"><strong>3</strong><br/>👁️<br/>📍<em>YOU ARE HERE</em></td>
-<td><strong>Computer Vision</strong></td>
-<td>How CNNs see and understand images feature by feature</td>
-<td>🖼️ Build an image classifier for Sudanese plant diseases</td>
+<td align="center"><strong>2</strong><br/>👁️<br/><em>📍YOU ARE HERE</em></td>
+<td><strong>Attention Mechanisms</strong></td>
+<td>Dot-product → scaled → causal masking → multi-head attention, step by step</td>
+<td>🔢 Full MultiHeadAttention module with masks and dropout — traced on concrete token examples</td>
 </tr>
 <tr>
-<td align="center"><strong>4</strong><br/>🔄</td>
-<td><strong>Transfer Learning</strong></td>
-<td>Leveraging pre-trained models for your specific problems</td>
-<td>🌾 Fine-tune models for agricultural applications</td>
+<td align="center"><strong>3</strong><br/>🏗️</td>
+<td><strong>GPT Architecture</strong></td>
+<td>How LayerNorm, GELU, FFN, and residual connections build a transformer block</td>
+<td>🧠 124M-parameter GPT-2 Small (GPT_CONFIG_124M) — full architecture, runnable from scratch</td>
 </tr>
 <tr>
-<td align="center"><strong>5</strong><br/>📝</td>
-<td><strong>NLP Fundamentals</strong></td>
-<td>How AI understands and generates human language</td>
-<td>💬 Create an Arabic sentiment analysis model</td>
+<td align="center"><strong>4</strong><br/>⚡</td>
+<td><strong>Training Loop</strong></td>
+<td>Loss functions, AdamW, gradient clipping, cosine LR scheduling, mixed precision, DDP</td>
+<td>🏋️ trainerV0 → V4: overfitting → full loop → TF32/FP16/Flash Attention → cosine LR → multi-GPU DDP</td>
 </tr>
 <tr>
-<td align="center"><strong>6</strong><br/>🤖</td>
-<td><strong>LLMs & Transformers</strong></td>
-<td>The architecture behind ChatGPT and modern AI</td>
-<td>🔤 Build a text generator with HuggingFace</td>
+<td align="center"><strong>5</strong><br/>🎲</td>
+<td><strong>Inference & Text Generation</strong></td>
+<td>Greedy vs. temperature vs. top-k/top-p vs. beam search — trade-offs and when to use each</td>
+<td>🎯 generateV0 → V3 (beam search) loading real GPT-2 pretrained weights + Gradio UI</td>
+</tr>
+<tr style="background-color: #f3e5f5; border-left: 3px solid #9c27b0;">
+<td align="center"><strong>A0</strong><br/>🐍</td>
+<td><strong>PyTorch Crash Course</strong></td>
+<td>Tensors, autograd, nn.Module, training loop, GPU, DataLoader — just enough to follow the GPT notebooks</td>
+<td>📘 Standalone crash course (do this first if new to PyTorch)</td>
+</tr>
+<tr style="background-color: #f3e5f5; border-left: 3px solid #9c27b0;">
+<td align="center"><strong>A1</strong><br/>🎯</td>
+<td><strong>SFT: Text Classification</strong></td>
+<td>How supervised fine-tuning adapts a pretrained LLM for a downstream classification task</td>
+<td>📊 Replace LM head with classification head — accuracy, F1, confusion matrix</td>
+</tr>
+<tr style="background-color: #f3e5f5; border-left: 3px solid #9c27b0;">
+<td align="center"><strong>A2</strong><br/>💬</td>
+<td><strong>SFT: Instruction Following</strong></td>
+<td>How instruction tuning shapes a model's response behaviour using prompt-response pairs</td>
+<td>🤖 Fine-tune GPT on (instruction, response) pairs — loss computed on response tokens only</td>
 </tr>
 </tbody>
 </table>
@@ -361,7 +401,8 @@
 - ✅ Finish all hands-on projects with production-grade code
 - ✅ **Complete NeetCode 75 (LeetCode Pattern Mastery)**
 - ✅ Submit and present capstone project that solves real problems
-- ✅ Complete required reading (Hands-on ML + Designing ML Systems)
+- ✅ Complete all mandatory reading books
+- ✅ **Complete [The Missing Semester of Your CS Degree](#️⃣-the-missing-semester-of-your-cs-degree) (shell, vim, git internals, debugging, profiling)**
 - ✅ Watch MLOps Fundamentals Playlist and implement concepts
 
 </td>
@@ -374,6 +415,227 @@
 - ✅ Contribute to SAIR open-source projects or documentation
 - ✅ Build professional portfolio with 5+ production-ready projects
 - ✅ Complete resume, LinkedIn, and interview preparation workshops
+
+</td>
+</tr>
+</table>
+
+### 📚 **Mandatory Reading for Full Program Completion**
+
+To fully complete the SAIR Jr. program, students must finish the following books in parallel with the coursework:
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/REQUIRED_READING-MANDATORY-D32F2F?style=for-the-badge&logo=bookstack&logoColor=white" alt="Mandatory reading badge"/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://openlibrary.org/isbn/9781999579517">
+<img src="assets/reading/hundred-page-ml-book.jpg" alt="The Hundred-Page Machine Learning Book cover" width="150"/>
+</a>
+<br/>
+<strong>The Hundred-Page Machine Learning Book</strong>
+<br/>
+<em>Andriy Burkov</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/📖 Read_First-Module_0--1-4CAF50?style=flat-square" alt="Read first"/>
+<br/><sub>Start here before anything else</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/">
+<img src="assets/reading/hands-on-ml-new-edition.jpg" alt="Hands-On Machine Learning with Scikit-Learn, Keras, and PyTorch cover" width="150"/>
+</a>
+<br/>
+<strong>Hands-On Machine Learning with Scikit-Learn, Keras, and PyTorch</strong>
+<br/>
+<em>New edition</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/📖 Read_In_Parallel-Modules_1--4-2196F3?style=flat-square" alt="Modules 1-4"/>
+<br/><sub>Alongside classical ML &amp; deep learning with PyTorch</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">
+<img src="assets/reading/build-llm-from-scratch.png" alt="Build a Large Language Model From Scratch cover" width="150"/>
+</a>
+<br/>
+<strong>Build a Large Language Model (From Scratch)</strong>
+<br/>
+<em>Sebastian Raschka</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/📖 Read_In_Parallel-Module_5-EE4C2C?style=flat-square" alt="Module 5"/>
+<br/><sub>Alongside GPT from Scratch module</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://openlibrary.org/isbn/9781098107963">
+<img src="assets/reading/designing-ml-systems.jpg" alt="Designing Machine Learning Systems cover" width="150"/>
+</a>
+<br/>
+<strong>Designing Machine Learning Systems</strong>
+<br/>
+<em>Chip Huyen</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/📖 Read_In_Parallel-Capstone_%26_MLOps-9C27B0?style=flat-square" alt="Capstone & MLOps"/>
+<br/><sub>Alongside MLOps &amp; capstone project</sub>
+</td>
+</tr>
+</table>
+
+<p><strong>SAIR community note:</strong> All of these mandatory books are offered for free upon request inside the SAIR community.</p>
+
+</div>
+
+**Required books (mandatory)** — read at the right time, not all at once
+
+| Book | Author | When to Read |
+|------|--------|--------------|
+| *The Hundred-Page Machine Learning Book* | Andriy Burkov | **Start here** — before Module 1 |
+| *Hands-On Machine Learning with Scikit-Learn, Keras, and PyTorch* | Aurélien Géron | **Modules 1–4** — in parallel with classical ML & deep learning |
+| *Build a Large Language Model (From Scratch)* | Sebastian Raschka | **Module 5** — in parallel with GPT from Scratch |
+| *Designing Machine Learning Systems* | Chip Huyen | **Capstone & MLOps** — in parallel with the final phase |
+
+**Additional books (helpful, but not mandatory)**
+- *Python Data Science Handbook*
+- *Practical MLOps*
+- *Machine Learning with PyTorch and Scikit-Learn* — Yuxi (Hayden) Liu, Sebastian Raschka, and Vahid Mirjalili
+
+---
+
+## 🖥️ **The Missing Semester of Your CS Degree**
+
+<div align="center">
+
+### **🎯 Why We Require This: Tools Are Part of the Craft**
+
+[![Missing Semester](https://img.shields.io/badge/🖥️_MISSING_SEMESTER_REQUIRED-FF6B35?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L)
+
+**Most CS programs skip the tools you use every day.**  
+This playlist fills that gap — shell, scripting, Git internals, debugging, and more.  
+Every SAIR engineer must own these skills before the Capstone.
+
+**Target Completion:** Alongside Modules 0–2  
+**Weekly Commitment:** 1 lecture/week (≈10 weeks total, ~1 hour each)
+
+</div>
+
+### 📊 **What You'll Learn**
+
+<table>
+<thead>
+<tr>
+<th width="25%">Lecture</th>
+<th width="40%">What You'll Master</th>
+<th width="35%">Why It Matters in SAIR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Shell & Scripting</strong></td>
+<td>Navigate the filesystem, automate tasks, write shell scripts</td>
+<td>Run pipelines, manage data, automate experiments</td>
+</tr>
+<tr>
+<td><strong>Shell Tools & Scripting</strong></td>
+<td>find, grep, sed, awk, environment variables, aliases</td>
+<td>Debug data pipelines and environment issues fast</td>
+</tr>
+<tr>
+<td><strong>Editors (Vim)</strong></td>
+<td>Modal editing, motions, macros — editing at the speed of thought</td>
+<td>Edit configs and code on remote machines without a GUI</td>
+</tr>
+<tr>
+<td><strong>Data Wrangling</strong></td>
+<td>Transform and clean data using command-line tools</td>
+<td>Pre-process raw datasets before they hit your notebook</td>
+</tr>
+<tr>
+<td><strong>Command-Line Environment</strong></td>
+<td>tmux, job control, dotfiles, SSH, remote workflows</td>
+<td>Work productively on Colab, cloud VMs, and GPU servers</td>
+</tr>
+<tr>
+<td><strong>Version Control (Git)</strong></td>
+<td>Git internals, branching, merging, rebasing, bisect</td>
+<td>Contribute to SAIR, collaborate on projects, own your history</td>
+</tr>
+<tr>
+<td><strong>Debugging & Profiling</strong></td>
+<td>pdb, strace, perf, flame graphs, timing bottlenecks</td>
+<td>Find why your training loop is slow or your model is crashing</td>
+</tr>
+<tr>
+<td><strong>Metaprogramming</strong></td>
+<td>Make, dependency management, CI, testing, semantic versioning</td>
+<td>Build reproducible ML projects with proper tooling</td>
+</tr>
+<tr>
+<td><strong>Security & Cryptography</strong></td>
+<td>Entropy, hashing, SSH keys, GPG, permissions</td>
+<td>Secure your API keys, models, and production systems</td>
+</tr>
+<tr>
+<td><strong>Potpourri & Q&A</strong></td>
+<td>Keyboard shortcuts, daemons, FUSE, backups, notebooks</td>
+<td>Become the engineer who knows how their machine works</td>
+</tr>
+</tbody>
+</table>
+
+### 🗓️ **When to Watch**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h4>📅 Phase 1 — Foundations (Modules 0–1)</h4>
+Shell, Shell Tools, Vim, Data Wrangling<br/>
+<em>4 lectures — build your daily workflow</em>
+</td>
+<td width="50%" align="center">
+<h4>📅 Phase 2 — Engineering (Modules 2–3)</h4>
+CLI Environment, Git internals, Debugging<br/>
+<em>3 lectures — level up your dev process</em>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h4>📅 Phase 3 — Production (Module 4+)</h4>
+Metaprogramming, Security, Potpourri<br/>
+<em>3 lectures — production-ready habits</em>
+</td>
+<td align="center">
+<h4>📅 Completion Check</h4>
+All 10 lectures watched<br/>
+Key concepts applied in at least one SAIR project<br/>
+<em>Verified before Capstone submission</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🏆 **The Edge You'll Gain**
+
+<table>
+<tr>
+<td width="50%">
+
+**🔧 Immediate Impact:**
+- Stop losing hours to environment issues
+- Automate repetitive data tasks with shell scripts
+- Debug ML code faster using proper profiling tools
+- Work fluently on remote GPU servers and Colab
+
+</td>
+<td width="50%">
+
+**💼 Career Signal:**
+- Engineers who own their tools stand out in interviews
+- Clean Git history and CI pipelines signal professionalism
+- Security awareness is rare and valued in ML roles
+- These skills compound across every module you take
 
 </td>
 </tr>
@@ -780,6 +1042,8 @@ With NeetCode 75 completion and SAIR Jr. training, graduates demonstrate:
 </tr>
 </table>
 
+</div>
+
 ---
 
 ### **"السير" - The Journey Begins with a Single Step**
@@ -810,7 +1074,7 @@ With NeetCode 75 completion and SAIR Jr. training, graduates demonstrate:
 - [ ] Find a study group partner
 - [ ] Fork NeetCode SAIR repository
 
-**License:** MIT | **Last Updated:** January 2025  
+**License:** MIT | **Last Updated:** March 2026  
 **Building Sudan's AI Future, One Engineer at a Time 🇸🇩✨**
 
 ---
